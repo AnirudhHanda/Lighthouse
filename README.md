@@ -13,7 +13,7 @@ This repo aims at showing interactive and responsive design of my E-commerce web
 
 ## Check it out
 
-[Check it out](https://anirudhhanda.github.io/Lighthouse/)
+[![Logo](https://user-images.githubusercontent.com/113718835/193540808-2770ee2d-77b6-4741-a7ed-e62632295bc1.png) Lighthouse](https://anirudhhanda.github.io/Lighthouse/)
 
 
 
